@@ -11,7 +11,7 @@ import patrickstar.com.financialassisant.R;
 
 public class MainActivity extends AppCompatActivity {
 
-    @Override
+    @Override//4444wwwwwqwwq
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
@@ -22,7 +22,8 @@ public class MainActivity extends AppCompatActivity {
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
+                Snackbar.make(view, "Replace with your owqw" +
+                        "n action", Snackbar.LENGTH_LONG)
                         .setAction("Action", null).show();
             }
         });
